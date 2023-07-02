@@ -1,0 +1,41 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #5a463a; /* dark brown */
+}
+
+/* Chatbot Widget Styles */
+.bpw-layout {
+    border: 2px solid #5a463a; /* dark brown */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(90, 70, 58, 0.1); /* dark brown */
+}
+
+.bpw-header-container {
+    background-color: #5a463a; /* dark brown */
+    border-radius: 10px 10px 0 0;
+}
+
+.bpw-header-title {
+    color: #f5f0e1; /* off white */
+}
+
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #c1a686; /* light brown */
+    color: #5a463a; /* dark brown */
+}
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #5a463a; /* dark brown */
+    color: #f5f0e1; /* off white */
+}
+
+.bpw-send-button {
+    background-color: #d4af37; /* gold */
+    color: #5a463a; /* dark brown */
+}
+
+.bpw-widget-btn {
+    background-image: url('https://yourwebsite.com/path-to-your-logo.png');
+    background-color: #5a463a; /* dark brown */
+}
